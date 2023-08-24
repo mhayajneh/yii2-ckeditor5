@@ -4,7 +4,7 @@ use yii\web\AssetBundle;
 
 class Assets extends AssetBundle
 {
-    public $sourcePath = '@vendor/sangroya/yii2-ckeditor5/assets/';
+    public $sourcePath = '@backend/web/js/ckeditor';
     public $css = [
     ];
 
